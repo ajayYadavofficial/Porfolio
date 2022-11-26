@@ -8,15 +8,9 @@
   </kbd>
 </p>
 
-## To view a live example, **[click here](https://developer-portfolio-1hanzla100.vercel.app/)**.
+## To view a live example, **[click here](https://loquacious-conkies-7bd2bd.netlify.app/)**.
 
 Just Edit `portfolio.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.
-
-But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/1hanzla100/developer-portfolio/issues).
-
-If you created something awesome and want to contribute then feel free to open an [pull request](https://github.com/1hanzla100/developer-portfolio/pulls).
-
-
 ## Sections
 
 ✔️ Summary and About me\
@@ -94,8 +88,7 @@ For adding emoji 😃 into the texts in `Portfolio.js`, use the `emoji()` functi
 Iconify Icons are used in skill section. You can find all the icons here: [Iconify](https://icon-sets.iconify.design/).
 
 ## For the Future
-
-If you can help us with these. Please don't hesitate to open a [pull request](https://github.com/1hanzla100/developer-portfolio/pulls).
+If you can help us with these. Please don't hesitate to open a [pull request](https://github.com/ajayYadavofficial/Porfolio/pulls).
 
 -   Enable Dark Mode
 
