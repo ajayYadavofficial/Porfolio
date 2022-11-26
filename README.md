@@ -102,14 +102,3 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 
 -   Add More Sections
 
-## Author
-
-👤 **Hanzla Tauqeer**
-
--   Website: https://hanzla.netlify.app
--   Github: [@1hanzla100](https://github.com/1hanzla100)
--   LinkedIn: [@1hanzla100](https://linkedin.com/in/1hanzla100)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
