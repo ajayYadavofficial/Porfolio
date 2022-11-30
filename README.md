@@ -8,7 +8,7 @@
   </kbd>
 </p>
 
-## To view a live example, **[click here](https://loquacious-conkies-7bd2bd.netlify.app/)**.
+## To view a live example, **[click here](https://itsajay.netlify.app/)**.
 
 Just Edit `portfolio.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.
 ## Sections
