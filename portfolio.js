@@ -291,7 +291,7 @@ export const showContactUs = true;
 export const seoData = {
   title: "Ajay Yadav",
   description:
-    "A passionate Full Stack Web Developer and Blockchain Developer.",
+    "A passionate Full Stack Web Developer.",
   author: "Ajay Yadav",
   image: "https://avatars.githubusercontent.com/u/101542376?v=4",
   url: "https://portfolio.ajyadav.com/",
