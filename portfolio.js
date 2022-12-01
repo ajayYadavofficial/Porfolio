@@ -294,7 +294,7 @@ export const seoData = {
     "A passionate Full Stack Web Developer and Blockchain Developer.",
   author: "Ajay Yadav",
   image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
-  url: "https://developer-portfolio-1hanzla100.vercel.app",
+  url: "https://portfolio.ajyadav.com/",
   keywords: [
     "Ajay",
     "Ajay Yadav",
