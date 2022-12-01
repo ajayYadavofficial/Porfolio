@@ -293,7 +293,7 @@ export const seoData = {
   description:
     "A passionate Full Stack Web Developer and Blockchain Developer.",
   author: "Ajay Yadav",
-  image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
+  image: "https://avatars.githubusercontent.com/u/101542376?v=4",
   url: "https://portfolio.ajyadav.com/",
   keywords: [
     "Ajay",
